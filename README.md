@@ -12,4 +12,4 @@ Using classification and regression to predict movie success.
 * Craig Barbisan
 * Nisha Choondassery
 * Mark Hubbard
-* Italy Segal
+* Itay Segal
