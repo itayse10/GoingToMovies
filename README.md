@@ -19,4 +19,6 @@ A set of features that would only be known prior to a movies release will be use
 The feature set will be further assessed via an optimal regression algorithm to predict revenue, where a low RMSE will increase confidence in the feature engineering and feature selection for the classifier.
 
 ## Video Link
-[![](https://storage.googleapis.com/kaggle-datasets-images/1474/2639/cb50fd3b236d01184fd23ad59af50b4f/dataset-original.jpg)](https://youtu.be/c1TbyxPeM4Y)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=c1TbyxPeM4Y
+" target="_blank"><img src="http://img.youtube.com/vi/c1TbyxPeM4Y/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
