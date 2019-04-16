@@ -20,5 +20,5 @@ The feature set will be further assessed via an optimal regression algorithm to 
 
 ## Video Link
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c1TbyxPeM4Y
-" target="_blank"><img src="http://img.youtube.com/vi/c1TbyxPeM4Y/0.jpg" 
+" target="_blank"><img src="https://archive.org/download/poster-collage/poster-collage.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
